@@ -1,6 +1,6 @@
 from ctypes import c_int, addressof 
 
-# get id of list 
+ 
 a =1
 print(id(a)) 
 
