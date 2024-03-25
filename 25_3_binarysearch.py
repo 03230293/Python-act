@@ -16,6 +16,8 @@ def birnary_search(arr, x):
 
     return -1
 
+#log n & O(1)
+
 arr=[2,3,4,6,8,10,12]
 x=10
 
