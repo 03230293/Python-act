@@ -13,3 +13,5 @@ print(add(n, m)  )
 #control structure
 #calculate output base on controla structure
 #inputs
+
+#how to read 
