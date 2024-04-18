@@ -1,13 +1,4 @@
 def sort_list(data):
-  """
-  Sorts a list using a simple divide-and-conquer approach.
-
-  Args:
-      data: The list to be sorted.
-
-  Returns:
-      The sorted list.
-  """
   if len(data) <= 1:
     return data
 

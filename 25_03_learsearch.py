@@ -10,6 +10,7 @@ def linear_search(arr, target): #parametern- ar and target
 linear_search(arr, target)
 
  #o(n) and o(1)
+
 # if result != -1: 
 #     print("Element found at index", result)
 # else: 
