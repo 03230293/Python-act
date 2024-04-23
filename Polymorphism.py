@@ -6,4 +6,5 @@ class Cat(Animal):
         print("I am meowing")
 c = Cat()
 a = Animal()
-
+a.speak()
+c.speak()
