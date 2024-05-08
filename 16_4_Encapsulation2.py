@@ -5,9 +5,17 @@ class student:
         return self.Module
     
 obj1 = student()
-obj1.setModules("Maths")
+# obj1.setModules("Maths")
+# print(obj1.getModules())
+
+obj1.setModules(input("Enter your best sub: "))
 print(obj1.getModules())
-obj2 = student()
-obj2.setModules("English")
-print(obj2.getModules())
+
+
+# obj2 = student()
+# obj2.setModules("English")
+# print(obj2.getModules())
+    
+
+    
 
