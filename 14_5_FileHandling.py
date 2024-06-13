@@ -1,10 +1,6 @@
 #Read mode
 
-# f= open("hello.txt", "r")
-# for i in f:
-#     print(i)
-# # text=f.read()
-# # print(text)
+#ANA
 # line1=f.readlines()
 # print(line1)
 # line2=f.readlines()
